@@ -50,27 +50,3 @@ This comparison highlights the importance of understanding the implications of d
 * Matplotlib (for plotting)
 * Seaborn (for enhanced visualizations)
 
-## How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone <URL do seu repositório GitHub aqui>
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd nome-da-sua-pasta-do-projeto
-    ```
-3.  **Install required libraries:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn
-    # (Optional but recommended) Use a virtual environment:
-    # python -m venv venv
-    # source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    # pip install pandas numpy matplotlib seaborn
-    ```
-4.  **Obtain the data:** Download the `netflix_titles.csv` file (e.g., from Kaggle) and place it in the project directory.
-5.  **Run the Python script:**
-    ```bash
-    python nome_do_seu_arquivo_principal.py # Replace with the actual name of your script
-    ```
-    The script will print information to the console and display the generated plots.
